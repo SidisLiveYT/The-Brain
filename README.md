@@ -1,2 +1,2 @@
-# Discord-AI
+# The Jericho
 Under Development
